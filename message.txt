@@ -1435,3 +1435,1626 @@ Array
         )
 
 )
+Array
+(
+    [update_id] => 932896512
+    [message] => Array
+        (
+            [message_id] => 213
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1232676917
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [type] => private
+                )
+
+            [date] => 1662119937
+            [text] => Пп
+        )
+
+)
+Array
+(
+    [update_id] => 932896513
+    [message] => Array
+        (
+            [message_id] => 215
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1232676917
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [type] => private
+                )
+
+            [date] => 1662119944
+            [text] => tefffdsfsd
+        )
+
+)
+Array
+(
+    [update_id] => 932896514
+    [message] => Array
+        (
+            [message_id] => 220
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1232676917
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [type] => private
+                )
+
+            [date] => 1662311947
+            [text] => mememe
+        )
+
+)
+Array
+(
+    [update_id] => 932896515
+    [message] => Array
+        (
+            [message_id] => 221
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1232676917
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [type] => private
+                )
+
+            [date] => 1662312391
+            [text] => /photo
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 932896516
+    [message] => Array
+        (
+            [message_id] => 224
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1232676917
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [type] => private
+                )
+
+            [date] => 1662312434
+            [text] => /photo
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 932896517
+    [message] => Array
+        (
+            [message_id] => 227
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1232676917
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [type] => private
+                )
+
+            [date] => 1662312487
+            [text] => /photo
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 932896518
+    [message] => Array
+        (
+            [message_id] => 230
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1232676917
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [type] => private
+                )
+
+            [date] => 1662312525
+            [text] => /photo
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 932896519
+    [message] => Array
+        (
+            [message_id] => 232
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1232676917
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [type] => private
+                )
+
+            [date] => 1662312583
+            [text] => /photo
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 932896520
+    [message] => Array
+        (
+            [message_id] => 234
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1232676917
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [type] => private
+                )
+
+            [date] => 1662313926
+            [text] => /document
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 9
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 932896521
+    [message] => Array
+        (
+            [message_id] => 236
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1232676917
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [type] => private
+                )
+
+            [date] => 1662313945
+            [text] => /document
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 9
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 932896522
+    [message] => Array
+        (
+            [message_id] => 237
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1232676917
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [type] => private
+                )
+
+            [date] => 1662314003
+            [text] => /document
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 9
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 932896523
+    [message] => Array
+        (
+            [message_id] => 239
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1232676917
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [type] => private
+                )
+
+            [date] => 1662314214
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 932896524
+    [message] => Array
+        (
+            [message_id] => 241
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1232676917
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [type] => private
+                )
+
+            [date] => 1662314216
+            [reply_to_message] => Array
+                (
+                    [message_id] => 240
+                    [from] => Array
+                        (
+                            [id] => 5792512364
+                            [is_bot] => 1
+                            [first_name] => business_irtis_test
+                            [username] => business_irtis_test_bot
+                        )
+
+                    [chat] => Array
+                        (
+                            [id] => 1232676917
+                            [first_name] => Sergey
+                            [last_name] => Shiryaev
+                            [type] => private
+                        )
+
+                    [date] => 1662314215
+                    [text] => Введите свой иин
+                )
+
+            [text] => 123
+        )
+
+)
+Array
+(
+    [update_id] => 932896525
+    [message] => Array
+        (
+            [message_id] => 243
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1232676917
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [type] => private
+                )
+
+            [date] => 1662314399
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 932896526
+    [message] => Array
+        (
+            [message_id] => 245
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1232676917
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [type] => private
+                )
+
+            [date] => 1662314401
+            [reply_to_message] => Array
+                (
+                    [message_id] => 244
+                    [from] => Array
+                        (
+                            [id] => 5792512364
+                            [is_bot] => 1
+                            [first_name] => business_irtis_test
+                            [username] => business_irtis_test_bot
+                        )
+
+                    [chat] => Array
+                        (
+                            [id] => 1232676917
+                            [first_name] => Sergey
+                            [last_name] => Shiryaev
+                            [type] => private
+                        )
+
+                    [date] => 1662314400
+                    [text] => Введите свой иин
+                )
+
+            [text] => 111
+        )
+
+)
+Array
+(
+    [update_id] => 932896527
+    [message] => Array
+        (
+            [message_id] => 247
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1232676917
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [type] => private
+                )
+
+            [date] => 1662314405
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 932896528
+    [message] => Array
+        (
+            [message_id] => 249
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1232676917
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [type] => private
+                )
+
+            [date] => 1662314407
+            [reply_to_message] => Array
+                (
+                    [message_id] => 248
+                    [from] => Array
+                        (
+                            [id] => 5792512364
+                            [is_bot] => 1
+                            [first_name] => business_irtis_test
+                            [username] => business_irtis_test_bot
+                        )
+
+                    [chat] => Array
+                        (
+                            [id] => 1232676917
+                            [first_name] => Sergey
+                            [last_name] => Shiryaev
+                            [type] => private
+                        )
+
+                    [date] => 1662314406
+                    [text] => Введите свой иин
+                )
+
+            [text] => 123
+        )
+
+)
+Array
+(
+    [update_id] => 932896529
+    [message] => Array
+        (
+            [message_id] => 251
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1232676917
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [type] => private
+                )
+
+            [date] => 1662314592
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 932896530
+    [message] => Array
+        (
+            [message_id] => 253
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1232676917
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [type] => private
+                )
+
+            [date] => 1662314598
+            [reply_to_message] => Array
+                (
+                    [message_id] => 252
+                    [from] => Array
+                        (
+                            [id] => 5792512364
+                            [is_bot] => 1
+                            [first_name] => business_irtis_test
+                            [username] => business_irtis_test_bot
+                        )
+
+                    [chat] => Array
+                        (
+                            [id] => 1232676917
+                            [first_name] => Sergey
+                            [last_name] => Shiryaev
+                            [type] => private
+                        )
+
+                    [date] => 1662314592
+                    [text] => Введите свой иин
+                )
+
+            [text] => 123456789012
+        )
+
+)
+Array
+(
+    [update_id] => 932896530
+    [message] => Array
+        (
+            [message_id] => 253
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1232676917
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [type] => private
+                )
+
+            [date] => 1662314598
+            [reply_to_message] => Array
+                (
+                    [message_id] => 252
+                    [from] => Array
+                        (
+                            [id] => 5792512364
+                            [is_bot] => 1
+                            [first_name] => business_irtis_test
+                            [username] => business_irtis_test_bot
+                        )
+
+                    [chat] => Array
+                        (
+                            [id] => 1232676917
+                            [first_name] => Sergey
+                            [last_name] => Shiryaev
+                            [type] => private
+                        )
+
+                    [date] => 1662314592
+                    [text] => Введите свой иин
+                )
+
+            [text] => 123456789012
+        )
+
+)
+Array
+(
+    [update_id] => 932896530
+    [message] => Array
+        (
+            [message_id] => 253
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1232676917
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [type] => private
+                )
+
+            [date] => 1662314598
+            [reply_to_message] => Array
+                (
+                    [message_id] => 252
+                    [from] => Array
+                        (
+                            [id] => 5792512364
+                            [is_bot] => 1
+                            [first_name] => business_irtis_test
+                            [username] => business_irtis_test_bot
+                        )
+
+                    [chat] => Array
+                        (
+                            [id] => 1232676917
+                            [first_name] => Sergey
+                            [last_name] => Shiryaev
+                            [type] => private
+                        )
+
+                    [date] => 1662314592
+                    [text] => Введите свой иин
+                )
+
+            [text] => 123456789012
+        )
+
+)
+Array
+(
+    [update_id] => 932896530
+    [message] => Array
+        (
+            [message_id] => 253
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1232676917
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [type] => private
+                )
+
+            [date] => 1662314598
+            [reply_to_message] => Array
+                (
+                    [message_id] => 252
+                    [from] => Array
+                        (
+                            [id] => 5792512364
+                            [is_bot] => 1
+                            [first_name] => business_irtis_test
+                            [username] => business_irtis_test_bot
+                        )
+
+                    [chat] => Array
+                        (
+                            [id] => 1232676917
+                            [first_name] => Sergey
+                            [last_name] => Shiryaev
+                            [type] => private
+                        )
+
+                    [date] => 1662314592
+                    [text] => Введите свой иин
+                )
+
+            [text] => 123456789012
+        )
+
+)
+Array
+(
+    [update_id] => 932896530
+    [message] => Array
+        (
+            [message_id] => 253
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1232676917
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [type] => private
+                )
+
+            [date] => 1662314598
+            [reply_to_message] => Array
+                (
+                    [message_id] => 252
+                    [from] => Array
+                        (
+                            [id] => 5792512364
+                            [is_bot] => 1
+                            [first_name] => business_irtis_test
+                            [username] => business_irtis_test_bot
+                        )
+
+                    [chat] => Array
+                        (
+                            [id] => 1232676917
+                            [first_name] => Sergey
+                            [last_name] => Shiryaev
+                            [type] => private
+                        )
+
+                    [date] => 1662314592
+                    [text] => Введите свой иин
+                )
+
+            [text] => 123456789012
+        )
+
+)
+Array
+(
+    [update_id] => 932896530
+    [message] => Array
+        (
+            [message_id] => 253
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1232676917
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [type] => private
+                )
+
+            [date] => 1662314598
+            [reply_to_message] => Array
+                (
+                    [message_id] => 252
+                    [from] => Array
+                        (
+                            [id] => 5792512364
+                            [is_bot] => 1
+                            [first_name] => business_irtis_test
+                            [username] => business_irtis_test_bot
+                        )
+
+                    [chat] => Array
+                        (
+                            [id] => 1232676917
+                            [first_name] => Sergey
+                            [last_name] => Shiryaev
+                            [type] => private
+                        )
+
+                    [date] => 1662314592
+                    [text] => Введите свой иин
+                )
+
+            [text] => 123456789012
+        )
+
+)
+Array
+(
+    [update_id] => 932896530
+    [message] => Array
+        (
+            [message_id] => 253
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1232676917
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [type] => private
+                )
+
+            [date] => 1662314598
+            [reply_to_message] => Array
+                (
+                    [message_id] => 252
+                    [from] => Array
+                        (
+                            [id] => 5792512364
+                            [is_bot] => 1
+                            [first_name] => business_irtis_test
+                            [username] => business_irtis_test_bot
+                        )
+
+                    [chat] => Array
+                        (
+                            [id] => 1232676917
+                            [first_name] => Sergey
+                            [last_name] => Shiryaev
+                            [type] => private
+                        )
+
+                    [date] => 1662314592
+                    [text] => Введите свой иин
+                )
+
+            [text] => 123456789012
+        )
+
+)
+Array
+(
+    [update_id] => 932896531
+    [message] => Array
+        (
+            [message_id] => 254
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1232676917
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [type] => private
+                )
+
+            [date] => 1662314638
+            [text] => 12
+        )
+
+)
+Array
+(
+    [update_id] => 932896532
+    [message] => Array
+        (
+            [message_id] => 255
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1232676917
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [type] => private
+                )
+
+            [date] => 1662314642
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 932896533
+    [message] => Array
+        (
+            [message_id] => 256
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1232676917
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [type] => private
+                )
+
+            [date] => 1662314679
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 932896534
+    [message] => Array
+        (
+            [message_id] => 257
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1232676917
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [type] => private
+                )
+
+            [date] => 1662314688
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 932896535
+    [message] => Array
+        (
+            [message_id] => 262
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1232676917
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [type] => private
+                )
+
+            [date] => 1662314729
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 932896536
+    [message] => Array
+        (
+            [message_id] => 264
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1232676917
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [type] => private
+                )
+
+            [date] => 1662314731
+            [reply_to_message] => Array
+                (
+                    [message_id] => 263
+                    [from] => Array
+                        (
+                            [id] => 5792512364
+                            [is_bot] => 1
+                            [first_name] => business_irtis_test
+                            [username] => business_irtis_test_bot
+                        )
+
+                    [chat] => Array
+                        (
+                            [id] => 1232676917
+                            [first_name] => Sergey
+                            [last_name] => Shiryaev
+                            [type] => private
+                        )
+
+                    [date] => 1662314729
+                    [text] => Введите свой иин
+                )
+
+            [text] => 2
+        )
+
+)
+Array
+(
+    [update_id] => 932896537
+    [message] => Array
+        (
+            [message_id] => 266
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1232676917
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [type] => private
+                )
+
+            [date] => 1662315264
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 932896538
+    [message] => Array
+        (
+            [message_id] => 268
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1232676917
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [type] => private
+                )
+
+            [date] => 1662315268
+            [reply_to_message] => Array
+                (
+                    [message_id] => 267
+                    [from] => Array
+                        (
+                            [id] => 5792512364
+                            [is_bot] => 1
+                            [first_name] => business_irtis_test
+                            [username] => business_irtis_test_bot
+                        )
+
+                    [chat] => Array
+                        (
+                            [id] => 1232676917
+                            [first_name] => Sergey
+                            [last_name] => Shiryaev
+                            [type] => private
+                        )
+
+                    [date] => 1662315265
+                    [text] => Введите свой иин
+                )
+
+            [text] => qwe
+        )
+
+)
+Array
+(
+    [update_id] => 932896539
+    [message] => Array
+        (
+            [message_id] => 270
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1232676917
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [type] => private
+                )
+
+            [date] => 1662315271
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 932896540
+    [message] => Array
+        (
+            [message_id] => 272
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1232676917
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [type] => private
+                )
+
+            [date] => 1662315279
+            [reply_to_message] => Array
+                (
+                    [message_id] => 271
+                    [from] => Array
+                        (
+                            [id] => 5792512364
+                            [is_bot] => 1
+                            [first_name] => business_irtis_test
+                            [username] => business_irtis_test_bot
+                        )
+
+                    [chat] => Array
+                        (
+                            [id] => 1232676917
+                            [first_name] => Sergey
+                            [last_name] => Shiryaev
+                            [type] => private
+                        )
+
+                    [date] => 1662315271
+                    [text] => Введите свой иин
+                )
+
+            [text] => qwertyuiopas
+        )
+
+)
+Array
+(
+    [update_id] => 932896541
+    [message] => Array
+        (
+            [message_id] => 274
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1232676917
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [type] => private
+                )
+
+            [date] => 1662315286
+            [text] => 123456789123
+        )
+
+)
+Array
+(
+    [update_id] => 932896542
+    [message] => Array
+        (
+            [message_id] => 275
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1232676917
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [type] => private
+                )
+
+            [date] => 1662315304
+            [text] => 12345q7891w2
+        )
+
+)
+Array
+(
+    [update_id] => 932896543
+    [message] => Array
+        (
+            [message_id] => 276
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1232676917
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [type] => private
+                )
+
+            [date] => 1662315316
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 932896544
+    [message] => Array
+        (
+            [message_id] => 278
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1232676917
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [type] => private
+                )
+
+            [date] => 1662315318
+            [reply_to_message] => Array
+                (
+                    [message_id] => 277
+                    [from] => Array
+                        (
+                            [id] => 5792512364
+                            [is_bot] => 1
+                            [first_name] => business_irtis_test
+                            [username] => business_irtis_test_bot
+                        )
+
+                    [chat] => Array
+                        (
+                            [id] => 1232676917
+                            [first_name] => Sergey
+                            [last_name] => Shiryaev
+                            [type] => private
+                        )
+
+                    [date] => 1662315316
+                    [text] => Введите свой иин
+                )
+
+            [text] => 12345q7891w2
+        )
+
+)
