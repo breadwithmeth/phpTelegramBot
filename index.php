@@ -16,6 +16,8 @@ if(isset($r['message']['entities'][0]['type'])){
             send_photo($chat_id);
         }elseif($r['message']['text'] == '/document'){
             send_document($chat_id);
+        }elseif($r['message']['text'] == '/button'){
+            send_buttons($chat_id,'выберите кнопку' , [[['text'=>'123'], ['text'=>'123']], [['text'=>'123']]]);
         };
     }
     //send_message($chat_id, 'gigig');
@@ -65,18 +67,12 @@ function send_message($chat_id, $text, $reply_markup=''){
     curl_exec($ch);
 };
 
-function send_buttons($chat_id){
+function send_buttons($chat_id, $text, $buttons){
     global $url;
     $buttonData = array();
     $buttonData = [
-        'keyboard' =>[
-        [
-            ['text'=>'tefffdsfsd', 'callback_data'=>'www']
-        ],
-        [
-            ['text'=>'tefffdsfsd', 'callback_data'=>'www']
-        ]
-        ]
+        'keyboard' => $buttons
+        , 'one_time_keyboard' => true
     ];
 
 
@@ -90,7 +86,7 @@ function send_buttons($chat_id){
         CURLOPT_POSTFIELDS => [
             'chat_id' => $chat_id,
             'parse_mode' => 'HTML',
-            'text' => 'dsada',
+            'text' => $text,
             'reply_markup' => json_encode($buttonData),
         ]
     ];
