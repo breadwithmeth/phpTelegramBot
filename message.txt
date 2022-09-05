@@ -4636,3 +4636,111 @@ Array
         )
 
 )
+Array
+(
+    [update_id] => 932896581
+    [message] => Array
+        (
+            [message_id] => 342
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1232676917
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [type] => private
+                )
+
+            [date] => 1662367415
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 932896582
+    [message] => Array
+        (
+            [message_id] => 344
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1232676917
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [type] => private
+                )
+
+            [date] => 1662367427
+            [reply_to_message] => Array
+                (
+                    [message_id] => 343
+                    [from] => Array
+                        (
+                            [id] => 5792512364
+                            [is_bot] => 1
+                            [first_name] => business_irtis_test
+                            [username] => business_irtis_test_bot
+                        )
+
+                    [chat] => Array
+                        (
+                            [id] => 1232676917
+                            [first_name] => Sergey
+                            [last_name] => Shiryaev
+                            [type] => private
+                        )
+
+                    [date] => 1662367419
+                    [text] => Введите свой иин
+                    [entities] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [offset] => 8
+                                    [length] => 4
+                                    [type] => bold
+                                )
+
+                            [1] => Array
+                                (
+                                    [offset] => 8
+                                    [length] => 4
+                                    [type] => italic
+                                )
+
+                        )
+
+                )
+
+            [text] => 020227550641
+        )
+
+)
