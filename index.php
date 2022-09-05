@@ -11,7 +11,7 @@ if(isset($r['message']['entities'][0]['type'])){
     if($r['message']['entities'][0]['type'] = 'bot_command'){
         if($r['message']['text'] == '/start'){
             $forcereply = json_encode(['force_reply'=>True]);
-            send_message($chat_id, 'Введите свой иин', $forcereply);
+            send_message($chat_id, 'Введите <b><i>свой</i></b> иин', $forcereply);
         }elseif($r['message']['text'] == '/photo'){
             send_photo($chat_id);
         }elseif($r['message']['text'] == '/document'){
@@ -156,12 +156,10 @@ function send_document($chat_id){
 function check_iin($iin){
     $iin_split = str_split($iin);
     if(count($iin_split) == 12){
-        foreach($iin_split as $number){
-            if(preg_match('1234567890', $number)){
-                continue;
-            }else{
-                return 'false';
-            }
+        if(ctype_digit($iin)){
+            return 'true';
+        }else{
+            return 'fasle';
         }
     }else{
         return 'false';
