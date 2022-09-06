@@ -20514,3 +20514,2644 @@ Array
         )
 
 )
+Array
+(
+    [update_id] => 932896902
+    [callback_query] => Array
+        (
+            [id] => 5294307047830533841
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [message] => Array
+                (
+                    [message_id] => 841
+                    [from] => Array
+                        (
+                            [id] => 5792512364
+                            [is_bot] => 1
+                            [first_name] => business_irtis_test
+                            [username] => business_irtis_test_bot
+                        )
+
+                    [chat] => Array
+                        (
+                            [id] => 1232676917
+                            [first_name] => Sergey
+                            [last_name] => Shiryaev
+                            [type] => private
+                        )
+
+                    [date] => 1662445603
+                    [text] => Меню
+                    [reply_markup] => Array
+                        (
+                            [inline_keyboard] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Государственные услуги и меры государственной поддержки
+                                                    [callback_data] => goverment_services_and_support@ru
+                                                )
+
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Серсисы
+                                                    [callback_data] => services@ru
+                                                )
+
+                                        )
+
+                                    [2] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Объекты бизнеса и коммерческие помещения
+                                                    [callback_data] => business_commercial_premises@ru
+                                                )
+
+                                        )
+
+                                    [3] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Проверка статуса обращения
+                                                    [callback_data] => check_status@ru
+                                                )
+
+                                        )
+
+                                    [4] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Информация о боте 
+                                                    [callback_data] => about@ru
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [chat_instance] => -7043356209927026665
+            [data] => goverment_services_and_support@ru
+        )
+
+)
+Array
+(
+    [update_id] => 932896903
+    [callback_query] => Array
+        (
+            [id] => 5294307047543488901
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [message] => Array
+                (
+                    [message_id] => 843
+                    [from] => Array
+                        (
+                            [id] => 5792512364
+                            [is_bot] => 1
+                            [first_name] => business_irtis_test
+                            [username] => business_irtis_test_bot
+                        )
+
+                    [chat] => Array
+                        (
+                            [id] => 1232676917
+                            [first_name] => Sergey
+                            [last_name] => Shiryaev
+                            [type] => private
+                        )
+
+                    [date] => 1662445893
+                    [text] => Список разделов предоставляемых услуг гражданам/бизнесу
+                    [reply_markup] => Array
+                        (
+                            [inline_keyboard] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Государственные услуги
+                                                    [callback_data] => goverment_service@ru
+                                                )
+
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Меры государственной поддержки
+                                                    [callback_data] => goverment_support@ru
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [chat_instance] => -7043356209927026665
+            [data] => goverment_service@ru
+        )
+
+)
+Array
+(
+    [update_id] => 932896904
+    [callback_query] => Array
+        (
+            [id] => 5294307045954435909
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [message] => Array
+                (
+                    [message_id] => 843
+                    [from] => Array
+                        (
+                            [id] => 5792512364
+                            [is_bot] => 1
+                            [first_name] => business_irtis_test
+                            [username] => business_irtis_test_bot
+                        )
+
+                    [chat] => Array
+                        (
+                            [id] => 1232676917
+                            [first_name] => Sergey
+                            [last_name] => Shiryaev
+                            [type] => private
+                        )
+
+                    [date] => 1662445893
+                    [text] => Список разделов предоставляемых услуг гражданам/бизнесу
+                    [reply_markup] => Array
+                        (
+                            [inline_keyboard] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Государственные услуги
+                                                    [callback_data] => goverment_service@ru
+                                                )
+
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Меры государственной поддержки
+                                                    [callback_data] => goverment_support@ru
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [chat_instance] => -7043356209927026665
+            [data] => goverment_support@ru
+        )
+
+)
+Array
+(
+    [update_id] => 932896905
+    [callback_query] => Array
+        (
+            [id] => 5294307045803551231
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [message] => Array
+                (
+                    [message_id] => 841
+                    [from] => Array
+                        (
+                            [id] => 5792512364
+                            [is_bot] => 1
+                            [first_name] => business_irtis_test
+                            [username] => business_irtis_test_bot
+                        )
+
+                    [chat] => Array
+                        (
+                            [id] => 1232676917
+                            [first_name] => Sergey
+                            [last_name] => Shiryaev
+                            [type] => private
+                        )
+
+                    [date] => 1662445603
+                    [text] => Меню
+                    [reply_markup] => Array
+                        (
+                            [inline_keyboard] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Государственные услуги и меры государственной поддержки
+                                                    [callback_data] => goverment_services_and_support@ru
+                                                )
+
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Серсисы
+                                                    [callback_data] => services@ru
+                                                )
+
+                                        )
+
+                                    [2] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Объекты бизнеса и коммерческие помещения
+                                                    [callback_data] => business_commercial_premises@ru
+                                                )
+
+                                        )
+
+                                    [3] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Проверка статуса обращения
+                                                    [callback_data] => check_status@ru
+                                                )
+
+                                        )
+
+                                    [4] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Информация о боте 
+                                                    [callback_data] => about@ru
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [chat_instance] => -7043356209927026665
+            [data] => services@ru
+        )
+
+)
+Array
+(
+    [update_id] => 932896906
+    [callback_query] => Array
+        (
+            [id] => 5294307049175695063
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [message] => Array
+                (
+                    [message_id] => 844
+                    [from] => Array
+                        (
+                            [id] => 5792512364
+                            [is_bot] => 1
+                            [first_name] => business_irtis_test
+                            [username] => business_irtis_test_bot
+                        )
+
+                    [chat] => Array
+                        (
+                            [id] => 1232676917
+                            [first_name] => Sergey
+                            [last_name] => Shiryaev
+                            [type] => private
+                        )
+
+                    [date] => 1662445899
+                    [text] => Список разделов предоставляемых сервисов гражданам/бизнесу
+                    [reply_markup] => Array
+                        (
+                            [inline_keyboard] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Сервис1 ру
+                                                    [callback_data] => main_menu@ru
+                                                )
+
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Сервис 2 ру
+                                                    [callback_data] => main_menu@ru
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [chat_instance] => -7043356209927026665
+            [data] => main_menu@ru
+        )
+
+)
+Array
+(
+    [update_id] => 932896907
+    [callback_query] => Array
+        (
+            [id] => 5294307048089583946
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [message] => Array
+                (
+                    [message_id] => 845
+                    [from] => Array
+                        (
+                            [id] => 5792512364
+                            [is_bot] => 1
+                            [first_name] => business_irtis_test
+                            [username] => business_irtis_test_bot
+                        )
+
+                    [chat] => Array
+                        (
+                            [id] => 1232676917
+                            [first_name] => Sergey
+                            [last_name] => Shiryaev
+                            [type] => private
+                        )
+
+                    [date] => 1662445901
+                    [text] => Меню
+                    [reply_markup] => Array
+                        (
+                            [inline_keyboard] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Государственные услуги и меры государственной поддержки
+                                                    [callback_data] => goverment_services_and_support@ru
+                                                )
+
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Серсисы
+                                                    [callback_data] => services@ru
+                                                )
+
+                                        )
+
+                                    [2] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Объекты бизнеса и коммерческие помещения
+                                                    [callback_data] => business_commercial_premises@ru
+                                                )
+
+                                        )
+
+                                    [3] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Проверка статуса обращения
+                                                    [callback_data] => check_status@ru
+                                                )
+
+                                        )
+
+                                    [4] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Информация о боте 
+                                                    [callback_data] => about@ru
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [chat_instance] => -7043356209927026665
+            [data] => goverment_services_and_support@ru
+        )
+
+)
+Array
+(
+    [update_id] => 932896908
+    [callback_query] => Array
+        (
+            [id] => 5294307046960590257
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [message] => Array
+                (
+                    [message_id] => 846
+                    [from] => Array
+                        (
+                            [id] => 5792512364
+                            [is_bot] => 1
+                            [first_name] => business_irtis_test
+                            [username] => business_irtis_test_bot
+                        )
+
+                    [chat] => Array
+                        (
+                            [id] => 1232676917
+                            [first_name] => Sergey
+                            [last_name] => Shiryaev
+                            [type] => private
+                        )
+
+                    [date] => 1662451732
+                    [text] => Список разделов предоставляемых услуг гражданам/бизнесу
+                    [reply_markup] => Array
+                        (
+                            [inline_keyboard] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Государственные услуги
+                                                    [callback_data] => goverment_service@ru
+                                                )
+
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Меры государственной поддержки
+                                                    [callback_data] => goverment_support@ru
+                                                )
+
+                                        )
+
+                                    [2] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Вернуться в меню 
+                                                    [callback_data] => main_menu@ru
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [chat_instance] => -7043356209927026665
+            [data] => main_menu@ru
+        )
+
+)
+Array
+(
+    [update_id] => 932896909
+    [callback_query] => Array
+        (
+            [id] => 5294307048221377833
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [message] => Array
+                (
+                    [message_id] => 847
+                    [from] => Array
+                        (
+                            [id] => 5792512364
+                            [is_bot] => 1
+                            [first_name] => business_irtis_test
+                            [username] => business_irtis_test_bot
+                        )
+
+                    [chat] => Array
+                        (
+                            [id] => 1232676917
+                            [first_name] => Sergey
+                            [last_name] => Shiryaev
+                            [type] => private
+                        )
+
+                    [date] => 1662451744
+                    [text] => Меню
+                    [reply_markup] => Array
+                        (
+                            [inline_keyboard] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Государственные услуги и меры государственной поддержки
+                                                    [callback_data] => goverment_services_and_support@ru
+                                                )
+
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Серсисы
+                                                    [callback_data] => services@ru
+                                                )
+
+                                        )
+
+                                    [2] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Объекты бизнеса и коммерческие помещения
+                                                    [callback_data] => business_commercial_premises@ru
+                                                )
+
+                                        )
+
+                                    [3] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Проверка статуса обращения
+                                                    [callback_data] => check_status@ru
+                                                )
+
+                                        )
+
+                                    [4] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Информация о боте 
+                                                    [callback_data] => about@ru
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [chat_instance] => -7043356209927026665
+            [data] => goverment_services_and_support@ru
+        )
+
+)
+Array
+(
+    [update_id] => 932896910
+    [callback_query] => Array
+        (
+            [id] => 5294307045612009670
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [message] => Array
+                (
+                    [message_id] => 848
+                    [from] => Array
+                        (
+                            [id] => 5792512364
+                            [is_bot] => 1
+                            [first_name] => business_irtis_test
+                            [username] => business_irtis_test_bot
+                        )
+
+                    [chat] => Array
+                        (
+                            [id] => 1232676917
+                            [first_name] => Sergey
+                            [last_name] => Shiryaev
+                            [type] => private
+                        )
+
+                    [date] => 1662453409
+                    [text] => Список разделов предоставляемых услуг гражданам/бизнесу
+                    [reply_markup] => Array
+                        (
+                            [inline_keyboard] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Государственные услуги
+                                                    [callback_data] => goverment_service@ru
+                                                )
+
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Меры государственной поддержки
+                                                    [callback_data] => goverment_support@ru
+                                                )
+
+                                        )
+
+                                    [2] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Вернуться в меню 
+                                                    [callback_data] => main_menu@ru
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [chat_instance] => -7043356209927026665
+            [data] => main_menu@ru
+        )
+
+)
+Array
+(
+    [update_id] => 932896911
+    [callback_query] => Array
+        (
+            [id] => 5294307045196784263
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [message] => Array
+                (
+                    [message_id] => 849
+                    [from] => Array
+                        (
+                            [id] => 5792512364
+                            [is_bot] => 1
+                            [first_name] => business_irtis_test
+                            [username] => business_irtis_test_bot
+                        )
+
+                    [chat] => Array
+                        (
+                            [id] => 1232676917
+                            [first_name] => Sergey
+                            [last_name] => Shiryaev
+                            [type] => private
+                        )
+
+                    [date] => 1662453411
+                    [text] => Меню
+                    [reply_markup] => Array
+                        (
+                            [inline_keyboard] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Государственные услуги и меры государственной поддержки
+                                                    [callback_data] => goverment_services_and_support@ru
+                                                )
+
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Серсисы
+                                                    [callback_data] => services@ru
+                                                )
+
+                                        )
+
+                                    [2] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Объекты бизнеса и коммерческие помещения
+                                                    [callback_data] => business_commercial_premises@ru
+                                                )
+
+                                        )
+
+                                    [3] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Проверка статуса обращения
+                                                    [callback_data] => check_status@ru
+                                                )
+
+                                        )
+
+                                    [4] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Информация о боте 
+                                                    [callback_data] => about@ru
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [chat_instance] => -7043356209927026665
+            [data] => services@ru
+        )
+
+)
+Array
+(
+    [update_id] => 932896912
+    [callback_query] => Array
+        (
+            [id] => 5294307046669537542
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [message] => Array
+                (
+                    [message_id] => 849
+                    [from] => Array
+                        (
+                            [id] => 5792512364
+                            [is_bot] => 1
+                            [first_name] => business_irtis_test
+                            [username] => business_irtis_test_bot
+                        )
+
+                    [chat] => Array
+                        (
+                            [id] => 1232676917
+                            [first_name] => Sergey
+                            [last_name] => Shiryaev
+                            [type] => private
+                        )
+
+                    [date] => 1662453411
+                    [text] => Меню
+                    [reply_markup] => Array
+                        (
+                            [inline_keyboard] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Государственные услуги и меры государственной поддержки
+                                                    [callback_data] => goverment_services_and_support@ru
+                                                )
+
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Серсисы
+                                                    [callback_data] => services@ru
+                                                )
+
+                                        )
+
+                                    [2] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Объекты бизнеса и коммерческие помещения
+                                                    [callback_data] => business_commercial_premises@ru
+                                                )
+
+                                        )
+
+                                    [3] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Проверка статуса обращения
+                                                    [callback_data] => check_status@ru
+                                                )
+
+                                        )
+
+                                    [4] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Информация о боте 
+                                                    [callback_data] => about@ru
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [chat_instance] => -7043356209927026665
+            [data] => goverment_services_and_support@ru
+        )
+
+)
+Array
+(
+    [update_id] => 932896913
+    [callback_query] => Array
+        (
+            [id] => 5294307047721020751
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [message] => Array
+                (
+                    [message_id] => 851
+                    [from] => Array
+                        (
+                            [id] => 5792512364
+                            [is_bot] => 1
+                            [first_name] => business_irtis_test
+                            [username] => business_irtis_test_bot
+                        )
+
+                    [chat] => Array
+                        (
+                            [id] => 1232676917
+                            [first_name] => Sergey
+                            [last_name] => Shiryaev
+                            [type] => private
+                        )
+
+                    [date] => 1662453557
+                    [text] => Список разделов предоставляемых услуг гражданам/бизнесу
+                    [reply_markup] => Array
+                        (
+                            [inline_keyboard] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Государственные услуги
+                                                    [callback_data] => goverment_service@ru
+                                                )
+
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Меры государственной поддержки
+                                                    [callback_data] => goverment_support@ru
+                                                )
+
+                                        )
+
+                                    [2] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Вернуться в меню 
+                                                    [callback_data] => main_menu@ru
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [chat_instance] => -7043356209927026665
+            [data] => goverment_service@ru
+        )
+
+)
+Array
+(
+    [update_id] => 932896914
+    [callback_query] => Array
+        (
+            [id] => 5294307047825499930
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [message] => Array
+                (
+                    [message_id] => 851
+                    [from] => Array
+                        (
+                            [id] => 5792512364
+                            [is_bot] => 1
+                            [first_name] => business_irtis_test
+                            [username] => business_irtis_test_bot
+                        )
+
+                    [chat] => Array
+                        (
+                            [id] => 1232676917
+                            [first_name] => Sergey
+                            [last_name] => Shiryaev
+                            [type] => private
+                        )
+
+                    [date] => 1662453557
+                    [text] => Список разделов предоставляемых услуг гражданам/бизнесу
+                    [reply_markup] => Array
+                        (
+                            [inline_keyboard] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Государственные услуги
+                                                    [callback_data] => goverment_service@ru
+                                                )
+
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Меры государственной поддержки
+                                                    [callback_data] => goverment_support@ru
+                                                )
+
+                                        )
+
+                                    [2] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Вернуться в меню 
+                                                    [callback_data] => main_menu@ru
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [chat_instance] => -7043356209927026665
+            [data] => goverment_service@ru
+        )
+
+)
+Array
+(
+    [update_id] => 932896915
+    [callback_query] => Array
+        (
+            [id] => 5294307046244322424
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [message] => Array
+                (
+                    [message_id] => 851
+                    [from] => Array
+                        (
+                            [id] => 5792512364
+                            [is_bot] => 1
+                            [first_name] => business_irtis_test
+                            [username] => business_irtis_test_bot
+                        )
+
+                    [chat] => Array
+                        (
+                            [id] => 1232676917
+                            [first_name] => Sergey
+                            [last_name] => Shiryaev
+                            [type] => private
+                        )
+
+                    [date] => 1662453557
+                    [text] => Список разделов предоставляемых услуг гражданам/бизнесу
+                    [reply_markup] => Array
+                        (
+                            [inline_keyboard] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Государственные услуги
+                                                    [callback_data] => goverment_service@ru
+                                                )
+
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Меры государственной поддержки
+                                                    [callback_data] => goverment_support@ru
+                                                )
+
+                                        )
+
+                                    [2] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Вернуться в меню 
+                                                    [callback_data] => main_menu@ru
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [chat_instance] => -7043356209927026665
+            [data] => main_menu@ru
+        )
+
+)
+Array
+(
+    [update_id] => 932896916
+    [callback_query] => Array
+        (
+            [id] => 5294307049004844116
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [message] => Array
+                (
+                    [message_id] => 852
+                    [from] => Array
+                        (
+                            [id] => 5792512364
+                            [is_bot] => 1
+                            [first_name] => business_irtis_test
+                            [username] => business_irtis_test_bot
+                        )
+
+                    [chat] => Array
+                        (
+                            [id] => 1232676917
+                            [first_name] => Sergey
+                            [last_name] => Shiryaev
+                            [type] => private
+                        )
+
+                    [date] => 1662453567
+                    [text] => Меню
+                    [reply_markup] => Array
+                        (
+                            [inline_keyboard] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Государственные услуги и меры государственной поддержки
+                                                    [callback_data] => goverment_services_and_support@ru
+                                                )
+
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Серсисы
+                                                    [callback_data] => services@ru
+                                                )
+
+                                        )
+
+                                    [2] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Объекты бизнеса и коммерческие помещения
+                                                    [callback_data] => business_commercial_premises@ru
+                                                )
+
+                                        )
+
+                                    [3] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Проверка статуса обращения
+                                                    [callback_data] => check_status@ru
+                                                )
+
+                                        )
+
+                                    [4] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Информация о боте 
+                                                    [callback_data] => about@ru
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [chat_instance] => -7043356209927026665
+            [data] => about@ru
+        )
+
+)
+Array
+(
+    [update_id] => 932896917
+    [callback_query] => Array
+        (
+            [id] => 5294307046342636966
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [message] => Array
+                (
+                    [message_id] => 852
+                    [from] => Array
+                        (
+                            [id] => 5792512364
+                            [is_bot] => 1
+                            [first_name] => business_irtis_test
+                            [username] => business_irtis_test_bot
+                        )
+
+                    [chat] => Array
+                        (
+                            [id] => 1232676917
+                            [first_name] => Sergey
+                            [last_name] => Shiryaev
+                            [type] => private
+                        )
+
+                    [date] => 1662453567
+                    [text] => Меню
+                    [reply_markup] => Array
+                        (
+                            [inline_keyboard] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Государственные услуги и меры государственной поддержки
+                                                    [callback_data] => goverment_services_and_support@ru
+                                                )
+
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Серсисы
+                                                    [callback_data] => services@ru
+                                                )
+
+                                        )
+
+                                    [2] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Объекты бизнеса и коммерческие помещения
+                                                    [callback_data] => business_commercial_premises@ru
+                                                )
+
+                                        )
+
+                                    [3] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Проверка статуса обращения
+                                                    [callback_data] => check_status@ru
+                                                )
+
+                                        )
+
+                                    [4] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Информация о боте 
+                                                    [callback_data] => about@ru
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [chat_instance] => -7043356209927026665
+            [data] => about@ru
+        )
+
+)
+Array
+(
+    [update_id] => 932896918
+    [callback_query] => Array
+        (
+            [id] => 5294307045241711588
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [message] => Array
+                (
+                    [message_id] => 852
+                    [from] => Array
+                        (
+                            [id] => 5792512364
+                            [is_bot] => 1
+                            [first_name] => business_irtis_test
+                            [username] => business_irtis_test_bot
+                        )
+
+                    [chat] => Array
+                        (
+                            [id] => 1232676917
+                            [first_name] => Sergey
+                            [last_name] => Shiryaev
+                            [type] => private
+                        )
+
+                    [date] => 1662453567
+                    [text] => Меню
+                    [reply_markup] => Array
+                        (
+                            [inline_keyboard] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Государственные услуги и меры государственной поддержки
+                                                    [callback_data] => goverment_services_and_support@ru
+                                                )
+
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Серсисы
+                                                    [callback_data] => services@ru
+                                                )
+
+                                        )
+
+                                    [2] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Объекты бизнеса и коммерческие помещения
+                                                    [callback_data] => business_commercial_premises@ru
+                                                )
+
+                                        )
+
+                                    [3] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Проверка статуса обращения
+                                                    [callback_data] => check_status@ru
+                                                )
+
+                                        )
+
+                                    [4] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Информация о боте 
+                                                    [callback_data] => about@ru
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [chat_instance] => -7043356209927026665
+            [data] => about@ru
+        )
+
+)
+Array
+(
+    [update_id] => 932896919
+    [callback_query] => Array
+        (
+            [id] => 5294307046497963459
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [message] => Array
+                (
+                    [message_id] => 855
+                    [from] => Array
+                        (
+                            [id] => 5792512364
+                            [is_bot] => 1
+                            [first_name] => business_irtis_test
+                            [username] => business_irtis_test_bot
+                        )
+
+                    [chat] => Array
+                        (
+                            [id] => 1232676917
+                            [first_name] => Sergey
+                            [last_name] => Shiryaev
+                            [type] => private
+                        )
+
+                    [date] => 1662453716
+                    [text] => Здравствуйте!
+Данный бот предоставляет следующие услуги
+                    [entities] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [offset] => 0
+                                    [length] => 13
+                                    [type] => bold
+                                )
+
+                        )
+
+                    [reply_markup] => Array
+                        (
+                            [inline_keyboard] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Вернуться в меню 
+                                                    [callback_data] => main_menu@ru
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [chat_instance] => -7043356209927026665
+            [data] => main_menu@ru
+        )
+
+)
+Array
+(
+    [update_id] => 932896920
+    [callback_query] => Array
+        (
+            [id] => 5294307046035567757
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [message] => Array
+                (
+                    [message_id] => 856
+                    [from] => Array
+                        (
+                            [id] => 5792512364
+                            [is_bot] => 1
+                            [first_name] => business_irtis_test
+                            [username] => business_irtis_test_bot
+                        )
+
+                    [chat] => Array
+                        (
+                            [id] => 1232676917
+                            [first_name] => Sergey
+                            [last_name] => Shiryaev
+                            [type] => private
+                        )
+
+                    [date] => 1662453719
+                    [text] => Меню
+                    [reply_markup] => Array
+                        (
+                            [inline_keyboard] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Государственные услуги и меры государственной поддержки
+                                                    [callback_data] => goverment_services_and_support@ru
+                                                )
+
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Серсисы
+                                                    [callback_data] => services@ru
+                                                )
+
+                                        )
+
+                                    [2] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Объекты бизнеса и коммерческие помещения
+                                                    [callback_data] => business_commercial_premises@ru
+                                                )
+
+                                        )
+
+                                    [3] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Проверка статуса обращения
+                                                    [callback_data] => check_status@ru
+                                                )
+
+                                        )
+
+                                    [4] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Информация о боте 
+                                                    [callback_data] => about@ru
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [chat_instance] => -7043356209927026665
+            [data] => about@ru
+        )
+
+)
+Array
+(
+    [update_id] => 932896921
+    [callback_query] => Array
+        (
+            [id] => 5294307049182757861
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [message] => Array
+                (
+                    [message_id] => 856
+                    [from] => Array
+                        (
+                            [id] => 5792512364
+                            [is_bot] => 1
+                            [first_name] => business_irtis_test
+                            [username] => business_irtis_test_bot
+                        )
+
+                    [chat] => Array
+                        (
+                            [id] => 1232676917
+                            [first_name] => Sergey
+                            [last_name] => Shiryaev
+                            [type] => private
+                        )
+
+                    [date] => 1662453719
+                    [text] => Меню
+                    [reply_markup] => Array
+                        (
+                            [inline_keyboard] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Государственные услуги и меры государственной поддержки
+                                                    [callback_data] => goverment_services_and_support@ru
+                                                )
+
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Серсисы
+                                                    [callback_data] => services@ru
+                                                )
+
+                                        )
+
+                                    [2] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Объекты бизнеса и коммерческие помещения
+                                                    [callback_data] => business_commercial_premises@ru
+                                                )
+
+                                        )
+
+                                    [3] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Проверка статуса обращения
+                                                    [callback_data] => check_status@ru
+                                                )
+
+                                        )
+
+                                    [4] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Информация о боте 
+                                                    [callback_data] => about@ru
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [chat_instance] => -7043356209927026665
+            [data] => about@ru
+        )
+
+)
+Array
+(
+    [update_id] => 932896922
+    [callback_query] => Array
+        (
+            [id] => 5294307047638051947
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [message] => Array
+                (
+                    [message_id] => 856
+                    [from] => Array
+                        (
+                            [id] => 5792512364
+                            [is_bot] => 1
+                            [first_name] => business_irtis_test
+                            [username] => business_irtis_test_bot
+                        )
+
+                    [chat] => Array
+                        (
+                            [id] => 1232676917
+                            [first_name] => Sergey
+                            [last_name] => Shiryaev
+                            [type] => private
+                        )
+
+                    [date] => 1662453719
+                    [text] => Меню
+                    [reply_markup] => Array
+                        (
+                            [inline_keyboard] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Государственные услуги и меры государственной поддержки
+                                                    [callback_data] => goverment_services_and_support@ru
+                                                )
+
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Серсисы
+                                                    [callback_data] => services@ru
+                                                )
+
+                                        )
+
+                                    [2] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Объекты бизнеса и коммерческие помещения
+                                                    [callback_data] => business_commercial_premises@ru
+                                                )
+
+                                        )
+
+                                    [3] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Проверка статуса обращения
+                                                    [callback_data] => check_status@ru
+                                                )
+
+                                        )
+
+                                    [4] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Информация о боте 
+                                                    [callback_data] => about@ru
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [chat_instance] => -7043356209927026665
+            [data] => about@ru
+        )
+
+)
+Array
+(
+    [update_id] => 932896923
+    [message] => Array
+        (
+            [message_id] => 860
+            [from] => Array
+                (
+                    [id] => 347115154
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 347115154
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [type] => private
+                )
+
+            [date] => 1662454584
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 932896924
+    [message] => Array
+        (
+            [message_id] => 862
+            [from] => Array
+                (
+                    [id] => 347115154
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 347115154
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [type] => private
+                )
+
+            [date] => 1662454594
+            [reply_to_message] => Array
+                (
+                    [message_id] => 861
+                    [from] => Array
+                        (
+                            [id] => 5792512364
+                            [is_bot] => 1
+                            [first_name] => business_irtis_test
+                            [username] => business_irtis_test_bot
+                        )
+
+                    [chat] => Array
+                        (
+                            [id] => 347115154
+                            [first_name] => Sergey
+                            [last_name] => Shiryaev
+                            [type] => private
+                        )
+
+                    [date] => 1662454585
+                    [text] => Введите свой иин
+                )
+
+            [text] => 121212121212
+        )
+
+)
+Array
+(
+    [update_id] => 932896925
+    [callback_query] => Array
+        (
+            [id] => 1490848234609441125
+            [from] => Array
+                (
+                    [id] => 347115154
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [message] => Array
+                (
+                    [message_id] => 864
+                    [from] => Array
+                        (
+                            [id] => 5792512364
+                            [is_bot] => 1
+                            [first_name] => business_irtis_test
+                            [username] => business_irtis_test_bot
+                        )
+
+                    [chat] => Array
+                        (
+                            [id] => 347115154
+                            [first_name] => Sergey
+                            [last_name] => Shiryaev
+                            [type] => private
+                        )
+
+                    [date] => 1662454595
+                    [text] => Выберите язык
+                    [reply_markup] => Array
+                        (
+                            [inline_keyboard] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => kz
+                                                    [callback_data] => kz
+                                                )
+
+                                            [1] => Array
+                                                (
+                                                    [text] => ru
+                                                    [callback_data] => ru
+                                                )
+
+                                            [2] => Array
+                                                (
+                                                    [text] => en
+                                                    [callback_data] => en
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [chat_instance] => -8042739647448158197
+            [data] => ru
+        )
+
+)
+Array
+(
+    [update_id] => 932896926
+    [callback_query] => Array
+        (
+            [id] => 1490848235302159553
+            [from] => Array
+                (
+                    [id] => 347115154
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [message] => Array
+                (
+                    [message_id] => 866
+                    [from] => Array
+                        (
+                            [id] => 5792512364
+                            [is_bot] => 1
+                            [first_name] => business_irtis_test
+                            [username] => business_irtis_test_bot
+                        )
+
+                    [chat] => Array
+                        (
+                            [id] => 347115154
+                            [first_name] => Sergey
+                            [last_name] => Shiryaev
+                            [type] => private
+                        )
+
+                    [date] => 1662454601
+                    [text] => Меню
+                    [reply_markup] => Array
+                        (
+                            [inline_keyboard] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Государственные услуги и меры государственной поддержки
+                                                    [callback_data] => goverment_services_and_support@ru
+                                                )
+
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Серсисы
+                                                    [callback_data] => services@ru
+                                                )
+
+                                        )
+
+                                    [2] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Объекты бизнеса и коммерческие помещения
+                                                    [callback_data] => business_commercial_premises@ru
+                                                )
+
+                                        )
+
+                                    [3] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Проверка статуса обращения
+                                                    [callback_data] => check_status@ru
+                                                )
+
+                                        )
+
+                                    [4] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Информация о боте 
+                                                    [callback_data] => about@ru
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [chat_instance] => -8042739647448158197
+            [data] => goverment_services_and_support@ru
+        )
+
+)
+Array
+(
+    [update_id] => 932896927
+    [callback_query] => Array
+        (
+            [id] => 1490848234747097316
+            [from] => Array
+                (
+                    [id] => 347115154
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [message] => Array
+                (
+                    [message_id] => 867
+                    [from] => Array
+                        (
+                            [id] => 5792512364
+                            [is_bot] => 1
+                            [first_name] => business_irtis_test
+                            [username] => business_irtis_test_bot
+                        )
+
+                    [chat] => Array
+                        (
+                            [id] => 347115154
+                            [first_name] => Sergey
+                            [last_name] => Shiryaev
+                            [type] => private
+                        )
+
+                    [date] => 1662454603
+                    [text] => Список разделов предоставляемых услуг гражданам/бизнесу
+                    [reply_markup] => Array
+                        (
+                            [inline_keyboard] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Государственные услуги
+                                                    [callback_data] => goverment_service@ru
+                                                )
+
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Меры государственной поддержки
+                                                    [callback_data] => goverment_support@ru
+                                                )
+
+                                        )
+
+                                    [2] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Вернуться в меню 
+                                                    [callback_data] => main_menu@ru
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [chat_instance] => -8042739647448158197
+            [data] => main_menu@ru
+        )
+
+)
+Array
+(
+    [update_id] => 932896928
+    [callback_query] => Array
+        (
+            [id] => 5294307046255233811
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [message] => Array
+                (
+                    [message_id] => 856
+                    [from] => Array
+                        (
+                            [id] => 5792512364
+                            [is_bot] => 1
+                            [first_name] => business_irtis_test
+                            [username] => business_irtis_test_bot
+                        )
+
+                    [chat] => Array
+                        (
+                            [id] => 1232676917
+                            [first_name] => Sergey
+                            [last_name] => Shiryaev
+                            [type] => private
+                        )
+
+                    [date] => 1662453719
+                    [text] => Меню
+                    [reply_markup] => Array
+                        (
+                            [inline_keyboard] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Государственные услуги и меры государственной поддержки
+                                                    [callback_data] => goverment_services_and_support@ru
+                                                )
+
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Серсисы
+                                                    [callback_data] => services@ru
+                                                )
+
+                                        )
+
+                                    [2] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Объекты бизнеса и коммерческие помещения
+                                                    [callback_data] => business_commercial_premises@ru
+                                                )
+
+                                        )
+
+                                    [3] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Проверка статуса обращения
+                                                    [callback_data] => check_status@ru
+                                                )
+
+                                        )
+
+                                    [4] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Информация о боте 
+                                                    [callback_data] => about@ru
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [chat_instance] => -7043356209927026665
+            [data] => about@ru
+        )
+
+)
+Array
+(
+    [update_id] => 932896929
+    [message] => Array
+        (
+            [message_id] => 870
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1232676917
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [type] => private
+                )
+
+            [date] => 1662455377
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 932896930
+    [message] => Array
+        (
+            [message_id] => 872
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1232676917
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [type] => private
+                )
+
+            [date] => 1662455380
+            [reply_to_message] => Array
+                (
+                    [message_id] => 871
+                    [from] => Array
+                        (
+                            [id] => 5792512364
+                            [is_bot] => 1
+                            [first_name] => business_irtis_test
+                            [username] => business_irtis_test_bot
+                        )
+
+                    [chat] => Array
+                        (
+                            [id] => 1232676917
+                            [first_name] => Sergey
+                            [last_name] => Shiryaev
+                            [type] => private
+                        )
+
+                    [date] => 1662455378
+                    [text] => Введите свой иин
+                )
+
+            [text] => bbhhbk
+        )
+
+)
+Array
+(
+    [update_id] => 932896931
+    [message] => Array
+        (
+            [message_id] => 874
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1232676917
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [type] => private
+                )
+
+            [date] => 1662455655
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 932896932
+    [message] => Array
+        (
+            [message_id] => 876
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1232676917
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [type] => private
+                )
+
+            [date] => 1662455677
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 932896933
+    [message] => Array
+        (
+            [message_id] => 878
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1232676917
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [type] => private
+                )
+
+            [date] => 1662455683
+            [reply_to_message] => Array
+                (
+                    [message_id] => 877
+                    [from] => Array
+                        (
+                            [id] => 5792512364
+                            [is_bot] => 1
+                            [first_name] => business_irtis_test
+                            [username] => business_irtis_test_bot
+                        )
+
+                    [chat] => Array
+                        (
+                            [id] => 1232676917
+                            [first_name] => Sergey
+                            [last_name] => Shiryaev
+                            [type] => private
+                        )
+
+                    [date] => 1662455678
+                    [text] => Введите свой иин
+                )
+
+            [text] => 020227550641
+        )
+
+)
+Array
+(
+    [update_id] => 932896934
+    [callback_query] => Array
+        (
+            [id] => 5294307049146992050
+            [from] => Array
+                (
+                    [id] => 1232676917
+                    [is_bot] => 
+                    [first_name] => Sergey
+                    [last_name] => Shiryaev
+                    [language_code] => en
+                )
+
+            [message] => Array
+                (
+                    [message_id] => 880
+                    [from] => Array
+                        (
+                            [id] => 5792512364
+                            [is_bot] => 1
+                            [first_name] => business_irtis_test
+                            [username] => business_irtis_test_bot
+                        )
+
+                    [chat] => Array
+                        (
+                            [id] => 1232676917
+                            [first_name] => Sergey
+                            [last_name] => Shiryaev
+                            [type] => private
+                        )
+
+                    [date] => 1662455684
+                    [text] => Выберите язык
+                    [reply_markup] => Array
+                        (
+                            [inline_keyboard] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => kz
+                                                    [callback_data] => kz
+                                                )
+
+                                            [1] => Array
+                                                (
+                                                    [text] => ru
+                                                    [callback_data] => ru
+                                                )
+
+                                            [2] => Array
+                                                (
+                                                    [text] => en
+                                                    [callback_data] => en
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [chat_instance] => -7043356209927026665
+            [data] => ru
+        )
+
+)

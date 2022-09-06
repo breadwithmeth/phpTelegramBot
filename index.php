@@ -15,7 +15,12 @@ if(isset($r['message']['chat']['id'])){
 if(isset($r['message']['entities'][0]['type'])){
     if($r['message']['entities'][0]['type'] = 'bot_command'){
         if($r['message']['text'] == '/start'){
+            $user_info = get_user_info($chat_id, $mysqli);
+            if($user_info['chat_id']==''){
             send_message($chat_id, 'Введите свой иин', true);
+            }else{
+                send_inline_buttons($chat_id, $textJSON['main_menu'][$user_info['language']]['message'], $textJSON['main_menu'][$user_info['language']]['buttons']);
+            }
         }elseif($r['message']['text'] == '/photo'){
             send_photo($chat_id);
         }elseif($r['message']['text'] == '/document'){
@@ -82,9 +87,12 @@ if(isset($r['message']['reply_to_message'])){
                 send_inline_buttons($chat_id, 'Выберите язык' , [[['text' => 'kz','callback_data' => 'kz'],['text' => 'ru','callback_data' => 'ru'],['text' => 'en','callback_data' => 'en']]]);
                 }else{
                     send_message($chat_id, 'Такой ИИН существует, либо к этому аккаунту привязан другой ИИН');
+                    send_message($chat_id, 'Введите свой иин', true);
+
                 }
             }else{
             send_message($chat_id, 'ИИН введен неправильно');
+            send_message($chat_id, 'Введите свой иин', true);
             }
         }
     }
