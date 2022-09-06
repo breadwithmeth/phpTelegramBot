@@ -15,17 +15,18 @@ if(isset($r['message']['chat']['id'])){
 if(isset($r['message']['entities'][0]['type'])){
     if($r['message']['entities'][0]['type'] = 'bot_command'){
         if($r['message']['text'] == '/start'){
-            
             send_message($chat_id, 'Введите свой иин', true);
         }elseif($r['message']['text'] == '/photo'){
             send_photo($chat_id);
         }elseif($r['message']['text'] == '/document'){
             send_document($chat_id);
-        }elseif($r['message']['text'] == '/button'){
+        }elseif($r['message']['text'] == '/language'){
             send_inline_buttons($chat_id, 'Выберите язык' , [[['text' => 'kz','callback_data' => 'kz'],['text' => 'ru','callback_data' => 'ru'],['text' => 'en','callback_data' => 'en']]]);
             //send_message($chat_id, 'Выбранный язык', true);
         }elseif($r['message']['text'] == '/menu'){
-            send_buttons($chat_id, '213', $textJSON['main_menu']['ru']);
+            $user_info = get_user_info($chat_id, $mysqli);
+            send_message($chat_id, $user_info['language']);
+            send_inline_buttons($chat_id, $textJSON['main_menu'][$user_info['language']]['message'], $textJSON['main_menu'][$user_info['language']]['buttons']);
         }
     }
     //send_message($chat_id, 'gigig');
@@ -33,9 +34,7 @@ if(isset($r['message']['entities'][0]['type'])){
 
 if(isset($r['message']['text'])){
     $text = $r['message']['text'];
-    if($text == 'Главное меню'){
-        send_buttons($chat_id, '213', $textJSON['main_menu']['ru']);
-    }elseif($text == 'Дополнительное меню'){
+    if($text == 'Дополнительное меню'){
         send_buttons($chat_id, '213', $textJSON['second_menu']['ru']);
     }
 }
@@ -45,7 +44,31 @@ if(isset($r['message']['text'])){
 
 
 if(isset($r['callback_query'])){
-    answerCallBackquery($r['callback_query']['id'], $r['callback_query']['data']);
+    $raw_message = $r['callback_query']['data'];
+    $chat_id_from_callback = $r['callback_query']['from']['id'];
+    if($raw_message == 'kz' || $raw_message == 'ru' || $raw_message == 'en'){
+        if(!set_language($chat_id_from_callback, $raw_message, $mysqli)){
+            send_message($chat_id_from_callback, "неудалось установить язык '{$raw_message}'");
+        }else{
+            send_message($chat_id_from_callback, "Язык установлен");
+            send_inline_buttons($chat_id_from_callback, $textJSON['main_menu'][$raw_message]['message'], $textJSON['main_menu'][$raw_message]['buttons']);
+        };
+        answerCallBackquery($r['callback_query']['id'], '');
+        return;
+    }
+    $split = strpos($raw_message, '@');
+    $text_of_message = substr($raw_message, 0, $split);
+    $lang = substr($raw_message, $split+1, 2);
+    $answer = $textJSON[$text_of_message];
+    if(isset($answer[$lang]['buttons'])){
+        send_inline_buttons($chat_id_from_callback, $answer[$lang]['message'], $answer[$lang]['buttons']);
+    }else{
+        send_message($chat_id_from_callback, $answer[$lang]['message']);
+    }
+    
+    answerCallBackquery($r['callback_query']['id'], '');
+
+    
 };
 
 if(isset($r['message']['reply_to_message'])){
@@ -56,9 +79,9 @@ if(isset($r['message']['reply_to_message'])){
             if (check_iin($iin)){
                 if(add_user_to_db($iin, $chat_id, $mysqli)){
                 send_message($chat_id, 'ИИН добавлен');
-                send_inline_buttons($chat_id,'Выберите язык' , [[['text'=>'kz'], ['text'=>'ru']]]);
+                send_inline_buttons($chat_id, 'Выберите язык' , [[['text' => 'kz','callback_data' => 'kz'],['text' => 'ru','callback_data' => 'ru'],['text' => 'en','callback_data' => 'en']]]);
                 }else{
-                    send_message($chat_id, 'Такой ИИН существует');
+                    send_message($chat_id, 'Такой ИИН существует, либо к этому аккаунту привязан другой ИИН');
                 }
             }else{
             send_message($chat_id, 'ИИН введен неправильно');
@@ -71,7 +94,9 @@ if(isset($r['message']['reply_to_message'])){
 
 function send_message($chat_id, $text, $forcereply=''){
     global $url;
-    $forcereply = json_encode(['force_reply'=>$forcereply]);
+    if ($forcereply == true){
+        $forcereply = json_encode(['force_reply'=>$forcereply]);
+    }
     $ch = curl_init();
     $ch_post = [
         CURLOPT_URL => $url . '/sendMessage',
@@ -235,7 +260,7 @@ function check_iin($iin){
 }
 
 function add_user_to_db($iin, $chat_id, $mysqli){
-    if(!check_user_exist($iin, $chat_id, $mysqli)){
+    if(!check_user_exist($iin, $chat_id, $mysqli) && !check_chat_id_exist($chat_id, $mysqli)){
         $query = "INSERT INTO users (iin, chat_id) VALUES('{$iin}', '{$chat_id}');";
         $result = mysqli_query($mysqli, $query);
         return $result;
@@ -256,7 +281,28 @@ function check_user_exist($iin, $chat_id, $mysqli){
     
 }
 
+function check_chat_id_exist($chat_id, $mysqli){
+    $query = "SELECT * FROM users WHERE chat_id = '{$chat_id}';";
+    $result = mysqli_query($mysqli, $query);
+    if(mysqli_fetch_assoc($result) == null){
+        return false;
+    }else{
+        return true;
+    }   
+}
 
+function set_language($chat_id, $language, $mysqli){
+    $query = "UPDATE users SET language = '{$language}' WHERE chat_id = '{$chat_id}';";
+    $result = mysqli_query($mysqli, $query);
+    return $result;
+}
+
+function get_user_info($chat_id, $mysqli){
+    $query = "SELECT * FROM users WHERE chat_id = '{$chat_id}';";
+    $result = mysqli_query($mysqli, $query);
+    $result = $result -> fetch_array(MYSQLI_ASSOC);
+    return $result;
+}
 
 
 
